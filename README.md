@@ -101,7 +101,8 @@
   <br/>
   <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/duNowzaVje6Di3hnOu/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/1ym5LJ17vpZBLZq5no/giphy.gif" width="70" />
+  <!-- Pikachu dancing -->
+  <img src="https://media.giphy.com/media/uW33Lg2BPzKdG/giphy.gif" width="70" />
 </div>
 
 ---
@@ -177,7 +178,8 @@
   </blockquote>
   <blockquote>
     <p>
-      <img src="https://media.giphy.com/media/1ym5LJ17vpZBLZq5no/giphy.gif" width="60" />
+      <!-- Pikachu static but cute -->
+      <img src="https://media.giphy.com/media/10LKovKon8s9bO/giphy.gif" width="60" />
       "Best click of my life." - Pikachu
     </p>
   </blockquote>
