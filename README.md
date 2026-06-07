@@ -31,7 +31,28 @@
   <img src="https://media.giphy.com/media/3orieVHJGEPW4VoqBq/giphy.gif" width="100" />
 </div>
 
+<!-- HOW TO USE THIS MAGIC -->
+<div align="center">
+  <marquee direction="right" scrollamount="8">
+    <h2>
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40" />
+      HOW TO USE THIS MAGIC?
+      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40" />
+    </h2>
+  </marquee>
+  <marquee behavior="scroll" direction="up" scrollamount="3" width="200" height="40" bgcolor="#ffcc00">
+    <span style="color:black;">click the star, do it now</span>
+  </marquee>
+  <br/>
+  <a href="https://github.com/DANN-Network/DANN-Network">
+    <img src="https://img.shields.io/badge/Star-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Star this repo" />
+  </a>
+  <br/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" />
+</div>
+
 <p align="center">
-  <a href="https://github.com/DANN-Network/About">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" />
-    <br/>
+  <marquee bgcolor="black" direction="left" scrollamount="15">
+    <span style="color:white;">THANKS FOR STOPPING BY, YOU ABSOLUTE LEGEND</span>
+  </marquee>
+</p>
